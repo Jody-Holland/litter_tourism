@@ -4,7 +4,7 @@ author: "Jody Holland"
 date: "2023-03-23"
 output:
   prettydoc::html_pretty:
-    theme: leonids
+    theme: cayman 
     highlight: github
 ---
 
