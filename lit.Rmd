@@ -14,6 +14,6 @@ nocite: '@*'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Literature List
+# Preface
 
 *Below is a list of potentially relevant research to this project. This list is certainly non-exhaustive and will be updated throughout the project.*

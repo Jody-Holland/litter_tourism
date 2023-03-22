@@ -14,12 +14,26 @@ nocite: '@*'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<style>
+body {
+text-align: justify}
+</style>
+
 # Preface
 
 This document is to serve as a selection of summaries of literature that I regard as potentially very related to the research themes in this project.
 
+<center>
 ## [@santos2005]
+</center>
 
 This paper from 2005 relates to research from Brazil in 2003. Based in the south of Brazil the aim of this research was threefold. The researchers aimed to determine the characteristics of people who engage in littering, as well as the perceptions of people to the problem of litter on the beach. To achieve this they used a mix of qualitative and quantitative methods, including handing out a survey to beach visitors, sampling the characteristics of visitors to the beaches over a period of time, and sampling the level of litter on the beaches over the same period of time. The results indicated that people's primary concern was relating to the dangers to humans caused by littering. They also found that when a beach was visted by increased levels of low-income and low-education people, the levels of litter increased relative to the base line.
 
-In my opinion this research is limited to not exploring if national background caused differentiation in littering behaviour, is quite old
+In my opinion this research is limited to not exploring if national background caused differentiation in littering behaviour, it is potentially outdated, the statistical modelling is very simplistic (bivariate regression), and more beaches could be surveyed. However, this paper does get bonus points for including the best visulisation I have seen in a while.
+
+<center>
+![](images/paste-81A7CFA8.png){width="533"}
+
+[@santos2005]</center>
+
+# Biblography
