@@ -1,0 +1,19 @@
+---
+title: "Literature List"
+author: "Jody Holland"
+date: "2023-03-22"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+bibliography: potential.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Literature List
+
+*Below is a list of potentially relevant research to this project. This list is certainly non-exhaustive and will be updated throughout the project.*
