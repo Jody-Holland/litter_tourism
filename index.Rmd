@@ -1,10 +1,9 @@
 ---
-title: "Index"
+title: "Individual Research Training"
 author: "Jody Holland"
-date: "2023-03-23"
 output:
   prettydoc::html_pretty:
-    theme: cayman 
+    theme: hpstr 
     highlight: github
 ---
 
@@ -12,24 +11,36 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{=html}
 <style>
 body {
 text-align: justify}
 </style>
-
-# Exploring the relationships between tourist mobility, demographics, and beach pollution levels.
-
-**This index page is to serve as a central UI to access all the necessary documents and datasets relevant for this Individual Research Training Project by Jody Holland at the University of Las Palmas de Gran Canaria**
-
+```
 <center>
+
+# Exploring the relationships between tourist mobility, demographics, and beach litter
+
+*This index page is to serve as a central UI to access all the necessary documents and datasets relevant for this Individual Research Training Project by Jody Holland at the University of Las Palmas de Gran Canaria*
+
 ### [**Literature List**](lit.html)
+
 ### [**Key Readings Summaries**](summaries.html)
+
 ### [**Research Ideas**](ideas.html)
+
 ### [**Research Design**](design.html)
+
 ### [**Data Exploration**](exploration.html)
+
 ### [**Data Analysis**](analysis.html)
+
 ### [**Exploring Results**](results.html)
+
 ### [**Visualising Findings**](findings.html)
+
 ### [**Research Paper**](paper.html)
+
 ### [**Acknowlegements**](ack.html)
+
 </center>

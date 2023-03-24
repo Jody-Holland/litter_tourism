@@ -1,10 +1,9 @@
 ---
 title: "Key Readings Summaries"
 author: "Jody Holland"
-date: "2023-03-22"
 output:
   prettydoc::html_pretty:
-    theme: cayman
+    theme: hpstr 
     highlight: github
 bibliography: summaries.bib
 nocite: '@*'
