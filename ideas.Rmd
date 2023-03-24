@@ -24,7 +24,7 @@ To build a demographic profile, ideally, we would be able to access mobility dat
 
 ### Litter Data
 
-Another issue is the
+Another issue is the operationalisation of data regarding the level of litter on the beaches
 
 # Potential Methods
 
@@ -34,6 +34,12 @@ Some form of generalised regression modelling
 
 Temporal and Spatial
 
+Demographic. Distance to the nearest car park. Hotel -\> Adults only resort, Child friendly resorts. Nearest city. Nearest bus stop. Google Trends on beaches. Frequented by tourist buses. OpenStreetMapData. Temperature and Sunlight hours that month.
+
 ### Preparing the response
 
-PCA
+Response variable comprised
+
+prcomp()
+
+Principal Component Analysis
