@@ -1,0 +1,19 @@
+---
+title: "Research Ideas"
+author: "Jody Holland"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+bibliography: potential.bib
+---
+
+```{=html}
+<style>
+body {
+text-align: justify}
+</style>
+```
+# Research Ideas
+
+The basic goal of this research project is explore relationships between the visitor profile of beaches on Fuerteventura and the level of litter left upon them. To achieve this several datasets need to be employed. To build a demographic profile, ideally, we would be able to access mobility data from mobile devices across the island. In this way I would be able to determine the visitor profile of each beach in terms of nationality, age, and length of stay. This would enable in depth inferences regarding the type
