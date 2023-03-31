@@ -39,7 +39,7 @@ text-align: justify}
 
 ### [**Visualising Findings**](findings.html)
 
-### [**Research Paper**](paper.html)
+### [**Research Paper**](paper.pdf)
 
 ### [**Acknowlegements**](ack.html)
 
