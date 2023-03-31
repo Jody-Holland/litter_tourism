@@ -45,10 +45,22 @@ This review paper goes over the existing literature on why people may leave litt
 
 ## [@li2018]
 
-This paper explores the new trend of working with "big data" in tourism research. An emerging field of study in the 21st century, big data relates to the hitherto unimaginable amount of scale of datasets gathered from contemporary digital information, such as GPS information. For tourism studies, the authors the trend of papers published using "big data" and breakdown the types of data used in these studies. For instance, and potentially relevant to this research, they find that around 22% of all studies employed GPS tracking data to study mobility trends in the tourism industry. The largest category of data is UGC or "User Generated Content" like online reviews (it may be possible to explore this too by scaping review sites on the beaches for reference to litter).
+This paper explores the new trend of working with "big data" in tourism research. An emerging field of study in the 21st century, big data relates to the hitherto unimaginable amount of scale of datasets gathered from contemporary digital information, such as GPS information. For tourism studies, the authors the trend of papers published using "big data" and breakdown the types of data used in these studies. For instance, and potentially relevant to this research, they find that around 22% of all studies employed GPS tracking data to study mobility trends in the tourism industry. The largest category of data is UGC or "User Generated Content" like online reviews (it may be possible to explore this too by scraping review sites on the beaches for reference to litter).
 
 Going into more detail on the use of GPS data, they provide this helpful info-graphic:
 
-![](images/paste-4D772A67.png)
+<center>
+
+![](images/paste-76D78A8C.png)
+
+[@li2018]
+
+</center>
+
+In my opinion, this paper is an invaluable guide for me during this project. Notably, its insights and references to studies employing a variety of data collection and wrangling techniques within tourism studies is extremely compelling to me. It is my hope that I will be able to marry this study to the field of garbage research.
+
+## [@araújo2019]
+
+At the time of this paper's publication, the authors note that annually "4.5 trillion cigarettes are littered in the environment."
 
 # Bibliography

@@ -1,0 +1,12 @@
+---
+title: "Research Paper"
+author: "Jody Holland"
+date: "2023-03-31"
+output: pdf_document
+---
+
+# Abstract
+
+# Introduction
+
+Many island economies are reliant on mass tourism to their coastal areas. Yet, the negative environmental implications of this arrangement may be substantial. In this context, *mass tourism* denotes a economic strategy of maximising the number of visitors to an area, with less focus on targeted marketing to specfic types of visitors. A contrasting arrangement may be efforts to tailor a tourism arrangement a small number of high spending wealthy guests, sometimes refereed to "alternative-tourism". Nonetheless, for many islands, mass tourism remains a reliable source of revenue, and any efforts to move beyond the model are costly and potentially could backfire. This was highlighted during 2020-2022 restrictions on international travel during the COVID-19 pandemic. During this period several islands around suffered serious declines in economic output. Thus, when restrictions eased, many islands eagerly accommodated mass tourism, seeing it as low investment, high yield, and reliable model of raising much needed revenue. Yet, as mentioned, there are significant negative consequences to mass tourism. Mass tourism has been attributed to overcrowding, particularly on coastal areas. As a consequence, locals may be "spaced out" of public areas such as beaches

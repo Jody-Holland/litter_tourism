@@ -20,7 +20,7 @@ The basic goal of this research project is explore relationships between the vis
 
 ### Demographic Data
 
-To build a demographic profile, ideally, we would be able to access mobility data from mobile devices across the island. In this way I would be able to determine the visitor profile of each beach in terms of nationality, age, and length of stay. This would enable in depth inferences regarding the type of people visiting each beach. However, this data may be hard to access. As a result it is prudent to explore alternative options. One option may be looking at search term data for the various beaches from different countirs over the 2021. This may unlock serveral important insights such as the level o finterest in each beach. However, it does not mean that search term data will translate into beach visits. Another option is to look as User Generate Content/UGC [@li2018]. This might involve looking at the location tagging of images such as on Flickr or Instagram. It may also involve language based analysis of reviews from each beach.
+To build a demographic profile, ideally, we would be able to access mobility data from mobile devices across the island. In this way I would be able to determine the visitor profile of each beach in terms of nationality, age, and length of stay. This would enable in depth inferences regarding the type of people visiting each beach. However, this data may be hard to access. As a result it is prudent to explore alternative options. One option may be looking at search term data for the various beaches from different countries over the 2021. This may unlock several important insights such as the level of interest in each beach. However, it does not mean that search term data will translate into beach visits. Another option is to look as User Generate Content/UGC [@li2018]. This might involve looking at the location tagging of images such as on Flickr or Instagram. It may also involve language based analysis of reviews from each beach.
 
 ### Litter Data
 
@@ -43,3 +43,37 @@ Response variable comprised
 prcomp()
 
 Principal Component Analysis
+
+# Rodri Writing Tips
+
+The basic structure of of a paper is as follows:
+
+-   Abstract
+
+-   Introduction
+
+-   Materials and Methods
+
+-   Results
+
+-   Discussion
+
+-   Conclusion
+
+Be wary of accidental plagiarism. Length of
+
+Maximum length of a masters thesis is 30 pages
+
+Must understand well 30-40 papers. Read 70 papers.
+
+Most important paragraphs are last one of intro and first one of discussion
+
+First page paragraph should be eye catching
+
+Each paragraph of intro should be substantial
+
+The econonmics dividend of mass tourism are substantial for islands globally. However, the environment impact
+
+Many island economies are reliant on mass tourism to their coastal areas. Yet, the negative environmental implications of this arrangement may be substantial. In this context, *mass tourism* denotes a economic strategy of maximising the number of visitors to an area, with less focus on targeted marketing to specfic types of visitors. A contrasting arrangement may be efforts to tailor a tourism arrangement a small number of high spending wealthy guests, sometimes refereed to "alternative-tourism". Nonetheless, for many islands, mass tourism remains a reliable source of revenue, and any efforts to move beyond the model are costly and potentially could backfire. This was highlighted during 2020-2022 restrictions on international travel during the COVID-19 pandemic. During this period several islands around suffered serious declines in economic output. Thus, it can argued that when restrictions eased, many islands eagerly accommodated mass tourism, seeing it as low investment, high yield, and reliable model of raising much needed revenue. Yet, as mentioned, there are significant negative consequences to mass tourism. Mass tourism has been attributed to overcrowding, particularly on coastal areas. As a consequence,
+
+Mass tourism denotes a mode of tourism focused on maximizing the number of visitors to
