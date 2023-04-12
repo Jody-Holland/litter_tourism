@@ -57,10 +57,24 @@ Going into more detail on the use of GPS data, they provide this helpful info-gr
 
 </center>
 
-In my opinion, this paper is an invaluable guide for me during this project. Notably, its insights and references to studies employing a variety of data collection and wrangling techniques within tourism studies is extremely compelling to me. It is my hope that I will be able to marry this study to the field of garbage research.
+In my opinion, this paper is an invaluable guide for me during this project. Notably, its insights and references to studies employing a variety of data collection and wrangling techniques within tourism studies is extremely compelling to me. It is my hope that I will be able to marry this study to the field of garbage research. Moreover, for writing any research proposal, I feel as if this paper could form a formidible backbone upon which to outline a methodology
 
 ## [@araújo2019]
 
-At the time of this paper's publication, the authors note that annually "4.5 trillion cigarettes are littered in the environment."
+At the time of this paper's publication, the authors note that annually "4.5 trillion cigarettes are littered in the environment." To this end, the authors present a literature review of the existing research addressing the topic of cigarrette butt pollution in the coastal environments of the world.
+
+The authors discuss the mechanisms behind the impact of cigarette butt pollution on the environment, noting that cigarette butts can leach toxic chemicals into the water, affect the growth of plants and animals, and even cause physical harm to marine life that mistake them for food. The authors also discuss the aesthetic impact of cigarette butt pollution, noting that it can detract from the natural beauty of coastal environments and impact the tourism industry.
+
+The authors then evaluate current efforts to address the problem of cigarette butt pollution in coastal environments. They highlight the fact that many jurisdictions have implemented laws and regulations aimed at reducing cigarette butt littering, but note that enforcement can be challenging. The authors also discuss various strategies that have been proposed to address the problem, including the use of biodegradable cigarette filters and the implementation of educational campaigns aimed at raising awareness about the issue.
+
+## [@krelling2017a]
+
+This article examines how different tourists react to the presence of marine litter within popular tourist spots. It is based on empirical research conducted in Brazil using surveys. The authors explore how different groups such as second home owners and non-recurrent tourists varying the how they percieve the presence of litter and how it affects their opinions on tourist spots.
+
+The authors found that different tourist groups had varying reactions to marine debris. International tourists were more likely to modify their behavior in response to marine debris, such as avoiding beaches with high levels of debris, while domestic tourists were more likely to continue using beaches regardless of the amount of marine debris present.
+
+The authors argue that these differences in perception and reaction can have a significant impact on tourism revenue in coastal areas. They note that international tourists tend to spend more money and stay for longer periods than domestic tourists, and that their sensitivity to environmental issues means that they may be less likely to return to beaches with high levels of marine debris. This can result in a loss of revenue for local businesses that depend on tourism.
+
+The authors suggest that addressing the issue of marine debris is therefore crucial for maintaining tourism revenue in coastal areas. They recommend that local governments and businesses take steps to reduce the amount of marine debris on beaches, and that they work to raise awareness among domestic tourists of the negative impact of marine debris on the environment and on tourism revenue.
 
 # Bibliography
